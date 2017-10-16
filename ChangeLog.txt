@@ -1,0 +1,11 @@
+ATEN ChangeLog History:
+  - Sync with ASPEED 0.22 SDK(2011/07/25)
+  - Sync with ASPEED 0.21 SDK(2011/02/23)
+  - Add KCS update but without modified(2010/10/28)
+  - Fix default value for u-boot and tools(2010/10/25)
+  - Modify for flash_layout.config and make ethaddr env. variable writeable(2010/10/20)
+  - Sync with ASPEED 0.14 SDK(2010/10/01)
+  - tools/Makefile: Modify for SDK compile and add to build env tools
+  - tools/env/Makefile: Add to include kernel header file path
+  - tools/env/fw_env.config: Change mtd configuration file
+  - include/configs/ast2300.h: Revise to 0.14 SDK
